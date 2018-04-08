@@ -1,0 +1,7 @@
+# Scons temp files
+/.sconsign.dblite
+/config.log
+/pkgconfig.pyc
+# Build products
+/src/*.o
+/iqcompress
